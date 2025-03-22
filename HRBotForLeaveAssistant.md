@@ -60,6 +60,22 @@ To streamline the leave management process by providing instant responses to lea
 
 * * * * *
 
+#### ** Demo **
+**Power Virtual Agent:**
+https://copilotstudio.microsoft.com/environments/f3a9c683-e734-e79f-b715-3a1c30dfa6db/bots/crd77_leaveAssistant/webchat?__version__=2
+
+**Power Page:**
+https://employeeleavemanagement-e626.powerappsportals.com/leave-policy/
+
+**Power Apps - Canvas:**
+https://apps.powerapps.com/play/e/f3a9c683-e734-e79f-b715-3a1c30dfa6db/a/3cd8d331-f3fc-4c23-8757-8679cd02dbdc?tenantId=dabd0981-3847-4c61-99f7-8d1958b2eec2&hint=763e1264-cb03-4f9b-9e45-031c7d5e635a&sourcetime=1742617706622
+
+**Azure Portal:**
+https://portal.azure.com/#@basavakumarrmoutlook.onmicrosoft.com/resource/subscriptions/2276e794-3271-4193-bcf6-dbb25c698499/resourceGroups/DAI-Team3/providers/Microsoft.Web/sites/EmployeeService/appServices
+
+**Azure App Service:**
+https://employeeservice-a6csfubhhsgpgcht.canadacentral-01.azurewebsites.net/swagger/index.html
+
 
 
 
