@@ -1,5 +1,8 @@
 ### **HR Chatbot for Leave Management**
 To streamline the leave management process by providing instant responses to leave-related queries, automating leave requests and approvals, and maintaining a centralized database of leave records.
+
+* * * * *
+
 #### **Components Involved:**
 1. **Power Virtual Agents:(Starter prompts, Knowledge, Topics, Channels)** To create the chatbot interface.
 2. **Power Automate:(Cloud flows, Dataverse connectors, Email connectors)** To automate workflows and integrate with other systems.
@@ -7,6 +10,23 @@ To streamline the leave management process by providing instant responses to lea
 4. **Power Apps:(AppHeader, AppFooter, Chatbot, Azure Text to speech, Azure Speech-to-text)** UI interface to get leave history, available balance and Power Virtual Agent for user interaction to understand leave policies, raising leave request. 
 5. **Power Pages(Data forms, Chatbot):** UI interface with interactive Virtual Agent for user interaction to understand leave policies, raising leave request.
 6. **Azure App Service:** To access Dataverse tables via Dataverse Web API and deploy that service in Azure App Service. 
+
+* * * * *
+
+#### **Flow - Add Knowledge to Agent** 
+![Image](https://github.com/user-attachments/assets/ba2a9fb5-8d30-4e0e-8a51-62d877386963)
+
+* * * * *
+
+#### **Flow - User search query from Agent**
+![Image](https://github.com/user-attachments/assets/dd141b86-468b-450f-ada3-954d99740bfc)
+
+* * * * *
+
+#### **Architecture Diagram:**
+![Image](https://github.com/user-attachments/assets/73b343b4-769c-4b85-bf81-14683faadf30)
+
+* * * * *
 
 #### **Flow 1: User search leave policy related queries to HRBot Agent via Power Apps(Leave Assistant System - Canvas App)**
 
@@ -40,20 +60,6 @@ To streamline the leave management process by providing instant responses to lea
 
 * * * * *
 
-#### **Flow - Add Knowledge to Agent** 
-![Image](https://github.com/user-attachments/assets/ba2a9fb5-8d30-4e0e-8a51-62d877386963)
-
-* * * * *
-
-#### **Flow - User search query from Agent**
-![Image](https://github.com/user-attachments/assets/dd141b86-468b-450f-ada3-954d99740bfc)
-
-* * * * *
-
-#### **Architecture Diagram:**
-![Image](https://github.com/user-attachments/assets/73b343b4-769c-4b85-bf81-14683faadf30)
-
-* * * * *
 
 
 
