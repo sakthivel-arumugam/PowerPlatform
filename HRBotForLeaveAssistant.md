@@ -15,13 +15,15 @@ To streamline the leave management process by providing instant responses to lea
 
 #### **Flow - Add Knowledge to Agent** 
 
-![image](https://github.com/user-attachments/assets/f181cbcc-65cc-46df-a317-248be31b4a93)
+![image](https://github.com/user-attachments/assets/1a4c6da1-b06c-4774-ae55-4c8875d8ab77)
 
 
 * * * * *
 
 #### **Flow - User search query from Agent**
-![image](https://github.com/user-attachments/assets/5d758028-3ac0-4c54-9690-5ec8ddf97971)
+
+![image](https://github.com/user-attachments/assets/b96d3c41-1ef0-47c0-bae9-fca6a77c3cd7)
+
 
 * * * * *
 
