@@ -16,6 +16,12 @@ To streamline the leave management process by providing instant responses to lea
 #### **Flow - Add Knowledge to Agent** 
 ![Image](https://github.com/user-attachments/assets/ba2a9fb5-8d30-4e0e-8a51-62d877386963)
 
+PDF Upload by User --> Document Parsing (Extracts text and structure) --> Chunking the Content -->  
+Indexing and Semantic Mapping --> User Query Submission (natural language question) -->  
+Query Understanding (NLP) --> Knowledge Base Search (Searches indexed chunks) -->  
+Response Compilation (relevant chunks to conversational response) --> Response Delivery to User  
+
+
 * * * * *
 
 #### **Flow - User search query from Agent**
