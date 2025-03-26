@@ -15,7 +15,8 @@ To streamline the leave management process by providing instant responses to lea
 
 #### **Flow - Add Knowledge to Agent** 
 
-![image](https://github.com/user-attachments/assets/661b4083-bfde-4138-87dd-344a546e7fbb)
+![image](https://github.com/user-attachments/assets/f181cbcc-65cc-46df-a317-248be31b4a93)
+
 
 * * * * *
 
