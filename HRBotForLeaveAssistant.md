@@ -47,7 +47,7 @@ To streamline the leave management process by providing instant responses to lea
 	- Trigger an email for the leave submission.
 	- Send return message to Agent.
 5.  **Power Virtual Agent:** Receive the status message from Power Automate flow. 
-6.  **Power Apps:** User will get an confirmation message for Power Agent. 
+6.  **Power Pages:** User will get an confirmation message for Power Agent. 
 
 * * * * *
 
