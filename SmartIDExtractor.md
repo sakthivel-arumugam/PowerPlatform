@@ -1,4 +1,4 @@
-### **HR Chatbot for Leave Management**
+### **SmartIDExtractor**
 SmartIDExtractor is a Power Apps-based solution that utilizes AI Builder’s Custom Document Processing model to automatically extract essential base information (e.g., First Name, Last Name, POB, DOB, Nationality, etc.) from uploaded ID cards.
 
 * * * * *
