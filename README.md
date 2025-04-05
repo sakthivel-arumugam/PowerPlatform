@@ -10,4 +10,4 @@ This project showcases various use cases implemented using Microsoft Power Platf
 
 ### Use Case 1: HRChatBot
 
-### Use Case 1: SmartIDExtractor
+### Use Case 2: SmartIDExtractor
