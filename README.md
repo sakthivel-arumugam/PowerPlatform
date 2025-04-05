@@ -8,6 +8,6 @@ This project showcases various use cases implemented using Microsoft Power Platf
 
 ## Use Cases
 
-### Use Case 1: HRBot for Leave Assistant
+### Use Case 1: HRChatBot
 
 ### Use Case 1: SmartIDExtractor
