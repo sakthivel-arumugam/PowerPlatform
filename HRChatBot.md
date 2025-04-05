@@ -1,5 +1,12 @@
-### **HR Chatbot for Leave Management**
-To streamline the leave management process by providing instant responses to leave-related queries, automating leave requests and approvals, and maintaining a centralized database of leave records.
+### **HR Chatbot**
+The HR Chatbot is an intelligent virtual assistant built using Power Virtual Agents, integrated into Power Apps, Power Automate and Dataverse. 
+1. Ask questions about leave policies.
+2. Check their leave balance.
+3. Submit leave requests conversationally.
+4. Trigger Power Automate cloud flow to interact with Dataverse.
+5. Store and retrieve data from Dataverse.
+   
+This chatbot makes leave management easier, faster, and self-service driven.
 
 * * * * *
 
@@ -7,7 +14,7 @@ To streamline the leave management process by providing instant responses to lea
 1. **Power Virtual Agents:(Starter prompts, Knowledge, Topics, Channels)** To create the chatbot interface.
 2. **Power Automate:(Cloud flows, Dataverse connectors, Email connectors)** To automate workflows and integrate with other systems.
 3. **Dataverse:(Tables)** To store and manage data.
-4. **Power Apps:(AppHeader, AppFooter, Chatbot, Azure Text to speech, Azure Speech-to-text)** UI interface to get leave history, available balance and Power Virtual Agent for user interaction to understand leave policies, raising leave request. 
+4. **Power Apps:(AppHeader, AppFooter, Chatbot)** UI interface to get leave history, available balance and Power Virtual Agent for user interaction to understand leave policies, raising leave request. 
 5. **Power Pages(Data forms, Chatbot):** UI interface with interactive Virtual Agent for user interaction to understand leave policies, raising leave request.
 6. **Azure App Service:** To access Dataverse tables via Dataverse Web API and deploy that service in Azure App Service. 
 
