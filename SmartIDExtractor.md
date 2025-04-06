@@ -15,6 +15,11 @@ SmartIDExtractor is a Power Apps-based solution that utilizes AI Builder’s Cus
 
 * * * * *
 
+#### **Flow**
+![image](https://github.com/user-attachments/assets/79c6ef7c-ef30-42dd-9c32-ecb4f453861a)
+
+* * * * *
+
 #### **Demo Links ** 
 
 **Power Apps - Canvas:** [https://apps.powerapps.com/play/e/f3a9c683-e734-e79f-b715-3a1c30dfa6db/a/3cd8d331-f3fc-4c23-8757-8679cd02dbdc?tenantId=dabd0981-3847-4c61-99f7-8d1958b2eec2&hint=763e1264-cb03-4f9b-9e45-031c7d5e635a&sourcetime=1742617706622](https://apps.powerapps.com/play/e/f3a9c683-e734-e79f-b715-3a1c30dfa6db/a/08b2e122-e1bd-42d9-9e4d-350f56026635?tenantId=dabd0981-3847-4c61-99f7-8d1958b2eec2&hint=b11c26eb-58d3-48e1-9b74-9984aa06a135&sourcetime=1743851191953&source=portal)
