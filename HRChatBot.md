@@ -20,22 +20,22 @@ This chatbot makes leave management easier, faster, and self-service driven.
 
 * * * * *
 
-#### **Flow - Add Knowledge to HRChatbot** 
-
-![image](https://github.com/user-attachments/assets/1a4c6da1-b06c-4774-ae55-4c8875d8ab77)
-
-
-* * * * *
-
-#### **Flow - User search query from HRChatbot**
-
-![image](https://github.com/user-attachments/assets/b96d3c41-1ef0-47c0-bae9-fca6a77c3cd7)
-
-
-* * * * *
-
 #### **Architecture Diagram:**
 ![Image](https://github.com/user-attachments/assets/73b343b4-769c-4b85-bf81-14683faadf30)
+
+* * * * *
+
+#### **Flow - Add Knowledge to HRChatbot** 
+
+![image](https://github.com/user-attachments/assets/fa072bae-37ec-44e0-89f1-2bd3c218496d)
+
+
+* * * * *
+
+#### **Flow - User interactions with HRChatbot**
+
+![image](https://github.com/user-attachments/assets/93652f09-827d-4cd5-83cb-51519707f0a3)
+
 
 * * * * *
 
