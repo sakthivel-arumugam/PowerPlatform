@@ -19,7 +19,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
 6. **Azure App Service** 
 
 * * * * *
-
+**Flow Diagram**
 ```
                            		[ Power Apps ]
                                                |
@@ -42,6 +42,10 @@ This chatbot makes leave management easier, faster, and self-service driven.
 					
 
 ```
+* * * * *
+
+**Architecture Diagram**
+![image](https://github.com/user-attachments/assets/d5e51f89-1caf-4293-a11f-e5a76ad5ca92)
 
 
 * * * * *
