@@ -11,27 +11,18 @@ This chatbot makes leave management easier, faster, and self-service driven.
 * * * * *
 
 #### **Components Involved:**
-1. **Power Virtual Agents:(Starter prompts, Knowledge, Topics, Channels)** To create the chatbot interface.
-2. **Power Automate:(Cloud flows, Dataverse connectors, Email connectors)** To automate workflows and integrate with other systems.
-3. **Dataverse:(Tables)** To store and manage data.
-4. **Power Apps:(AppHeader, AppFooter, Chatbot)** UI interface to get leave history, available balance and HRChatbot for user interaction to understand leave policies, raising leave request. 
-5. **Power Pages(Data forms, Chatbot):** UI interface with interactive HRChatbot for user interaction to understand leave policies, raising leave request.
-6. **Azure App Service:** To access Dataverse tables via Dataverse Web API and deploy that service in Azure App Service. 
+1. **Power Virtual Agents** 
+2. **Power Automate:(Cloud flows)** 
+3. **Dataverse**
+4. **Power Apps**  
+5. **Power Pages** 
+6. **Azure App Service:** 
 
 * * * * *
-
-#### **Architecture Diagram:**
-![Image](https://github.com/user-attachments/assets/73b343b4-769c-4b85-bf81-14683faadf30)
-
-* * * * *
-
-#### **Flow - Add Knowledge to HRChatbot** 
-
-![image](https://github.com/user-attachments/assets/3cd68667-be0e-476f-a887-b47d2e4c2dfa)
 
 ```
-                           [ Power Apps ]
-                                |
+                           		[ Power Apps ]
+                                               |
               ------------------------------------------------------------------
                |                                      			|
 	[ User Search ]                         		[ User Action ]
