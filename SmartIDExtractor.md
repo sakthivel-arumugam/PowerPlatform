@@ -16,7 +16,24 @@ SmartIDExtractor is a Power Apps-based solution that utilizes AI Builder’s Cus
 * * * * *
 
 #### **Flow - upload ID document and get the extractions using AI Builder Document Processing Model**
-![image](https://github.com/user-attachments/assets/90e2e71a-6124-4fe3-bb4c-09f466ffe0f3)
+```
+              [ Power Apps ]
+                     |
+------------------------------------------
+                     |                                      			
+            [ Upload ID cards ]                               
+                     |                                      			
+[ AI Builder (Custom Document Processing Model) ]          		              
+                     |                                      			
+         [ Document Data Extraction ]         			   
+                     |                                      			
+[ Power Apps (Display Extraction and Confidence) ]              			  
+                     |                                      			
+      [ Power Automate (Instant Flow) ]                       		
+                     |                                      			
+        [ Dataverse (Extraction) ]                   		 
+                 			
+```
 
 * * * * *
 
