@@ -30,7 +30,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
                                                |
               ------------------------------------------------------------------
                |                                      			|
-	[ User Search ]                         		 [ User Action ]
+	[ User Search ]                               [ User Action - Raise Leave Request ]
                |                                      			|
     [ Power Virtual Agent ]          		              [ Power Virtual Agent ]
                |                                      			|
@@ -40,7 +40,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
                |                                      			|
     [ Retrive Relevant Chunks ]                       		[ Email Connector ]
                |                                      			|
-     [ Response Generation ]                   		      [ Leave Request Submission ]
+     [ Response Generation ]                   		 [ Submission Message in Power Apps ]
                |                                      			
     [ Response Delivery ]                 			
                                      					
