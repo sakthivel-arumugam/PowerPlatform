@@ -14,20 +14,20 @@ This chatbot makes leave management easier, faster, and self-service driven.
 1. **Power Virtual Agents:(Starter prompts, Knowledge, Topics, Channels)** To create the chatbot interface.
 2. **Power Automate:(Cloud flows, Dataverse connectors, Email connectors)** To automate workflows and integrate with other systems.
 3. **Dataverse:(Tables)** To store and manage data.
-4. **Power Apps:(AppHeader, AppFooter, Chatbot)** UI interface to get leave history, available balance and Power Virtual Agent for user interaction to understand leave policies, raising leave request. 
-5. **Power Pages(Data forms, Chatbot):** UI interface with interactive Virtual Agent for user interaction to understand leave policies, raising leave request.
+4. **Power Apps:(AppHeader, AppFooter, Chatbot)** UI interface to get leave history, available balance and HRChatbot for user interaction to understand leave policies, raising leave request. 
+5. **Power Pages(Data forms, Chatbot):** UI interface with interactive HRChatbot for user interaction to understand leave policies, raising leave request.
 6. **Azure App Service:** To access Dataverse tables via Dataverse Web API and deploy that service in Azure App Service. 
 
 * * * * *
 
-#### **Flow - Add Knowledge to Agent** 
+#### **Flow - Add Knowledge to HRChatbot** 
 
 ![image](https://github.com/user-attachments/assets/1a4c6da1-b06c-4774-ae55-4c8875d8ab77)
 
 
 * * * * *
 
-#### **Flow - User search query from Agent**
+#### **Flow - User search query from HRChatbot**
 
 ![image](https://github.com/user-attachments/assets/b96d3c41-1ef0-47c0-bae9-fca6a77c3cd7)
 
@@ -39,30 +39,30 @@ This chatbot makes leave management easier, faster, and self-service driven.
 
 * * * * *
 
-#### **Flow 1: User search leave policy related queries to HRBot Agent via Power Apps(Leave Assistant System - Canvas App)**
+#### **Flow 1: User search leave policy related queries to HRChatbot via Power Apps(Leave Assistant System - Canvas App)**
 
 1.  **Power Apps:** User access **Leave Assistant System - Canvas App**, search some query to understand leave policy. Example - **What are the leave policies?**
-2.  **Power Virtual Agent:** Checkes **Starter Prompts** and **Topics**, provide search result based on knowldge is boosted with Agent.
+2.  **Power Virtual Agent:** Checkes **Starter Prompts** and **Topics**, provide search result based on knowldge is boosted with HRChatbot.
 3.  **Power Virtual Agent:** Provides all possible related results and link to the document. 
 
 * * * * *
 
-#### **Flow 2: User raise a leave request using HRBot Agent via Power Pages(Leave Assistant System)**
+#### **Flow 2: User raise a leave request using HRChatbot via Power Pages(Leave Assistant System)**
 
 1.   **Power Pages:** User navigates to Leave Policy page, search the query like **Need to apply leave.**
 2.   **Power Virtual Agent:** Checkes **Starter Prompts** and **Topics**, triggers Topic flow. Collected all related information to raise the leave request and validates it.
 3.   **Power Automate:**
    
-	- Reads user input from Agent and store it local variables. 
+	- Reads user input from HRChatbot and store it local variables. 
 	- Add an entry in Dataverse Table. 
 	- Trigger an email for the leave submission.
-	- Send return message to Agent.
+	- Send return message to HRChatbot.
 5.  **Power Virtual Agent:** Receive the status message from Power Automate flow. 
-6.  **Power Pages:** User will get an confirmation message for Power Agent. 
+6.  **Power Pages:** User will get an confirmation message from HRChatbot. 
 
 * * * * *
 
-#### **Flow 3: User raise a leave request using HRBot Agent via Power Apps(Leave Assistant System - Canvas)**
+#### **Flow 3: User raise a leave request using HRChatbot via Power Apps(Leave Assistant System - Canvas)**
 
 1.   **Power Apps:** User navigates to Leave History. 
 2.   **Dataverse:** Fetch the leave history and provide the results with basic operations like search, reload and filter. 
