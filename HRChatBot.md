@@ -14,9 +14,9 @@ This chatbot makes leave management easier, faster, and self-service driven.
 1. **Power Virtual Agents** 
 2. **Power Automate:(Cloud flows)** 
 3. **Dataverse**
-4. **Power Apps**  
+4. **Power Apps(Canvas App)**  
 5. **Power Pages** 
-6. **Azure App Service:** 
+6. **Azure App Service** 
 
 * * * * *
 
