@@ -46,13 +46,6 @@ This chatbot makes leave management easier, faster, and self-service driven.
 
 * * * * *
 
-#### **Flow - User interactions with HRChatbot**
-
-![image](https://github.com/user-attachments/assets/ab91b240-b878-49a9-903d-0a20f7c58dca)
-
-
-* * * * *
-
 #### **Flow 1: User search leave policy related queries to HRChatbot via Power Apps(Leave Assistant System - Canvas App)**
 
 1.  **Power Apps:** User access **Leave Assistant System - Canvas App**, search some query to understand leave policy. Example - **What are the leave policies?**
