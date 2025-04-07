@@ -45,8 +45,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
 * * * * *
 
 **Architecture Diagram**
-![image](https://github.com/user-attachments/assets/d5e51f89-1caf-4293-a11f-e5a76ad5ca92)
-
+![image](https://github.com/user-attachments/assets/a6bdfbbc-387c-4bf9-b02d-8bcd959b4a59)
 
 * * * * *
 
