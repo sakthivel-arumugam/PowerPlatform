@@ -27,7 +27,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
 
 #### **Flow - Add Knowledge to HRChatbot** 
 
-![image](https://github.com/user-attachments/assets/fa072bae-37ec-44e0-89f1-2bd3c218496d)
+![image](https://github.com/user-attachments/assets/3cd68667-be0e-476f-a887-b47d2e4c2dfa)
 
 
 * * * * *
