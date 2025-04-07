@@ -31,7 +31,7 @@ This chatbot makes leave management easier, faster, and self-service driven.
                |                                      			|
        [ Semantic Search ]         			[ Power Automate (User Inputs - Cloud Flow) ]
                |                                      			|
-     [ Knowledge Base Search ]              			   [ Dataverse ]
+     [ Knowledge Base Search ]              			  [ Dataverse ]
                |                                      			|
     [ Retrive Relevant Chunks ]                       		[ Email Connector ]
                |                                      			|
