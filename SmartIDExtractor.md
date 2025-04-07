@@ -38,6 +38,7 @@ SmartIDExtractor is a Power Apps-based solution that utilizes AI Builder’s Cus
 * * * * *
 
 **Reference Links:**
+
 https://learn.microsoft.com/en-us/ai-builder/form-processing-model-overview
 
 https://learn.microsoft.com/en-us/ai-builder/prompt-modelsettings#temperature
