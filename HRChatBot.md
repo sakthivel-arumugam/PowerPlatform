@@ -25,17 +25,17 @@ This chatbot makes leave management easier, faster, and self-service driven.
                                                |
               ------------------------------------------------------------------
                |                                      			|
-	[ User Search ]                         		[ User Action ]
+	[ User Search ]                         		 [ User Action ]
                |                                      			|
     [ Power Virtual Agent ]          		              [ Power Virtual Agent ]
                |                                      			|
-       [ Semantic Search ]         			[ Power Automate (User Inputs - Cloud Flow) ]
+       [ Semantic Search ]         			   [ Power Automate (Cloud Flow) ]
                |                                      			|
      [ Knowledge Base Search ]              			  [ Dataverse ]
                |                                      			|
     [ Retrive Relevant Chunks ]                       		[ Email Connector ]
                |                                      			|
-    [ Response Generation ]                   		      [ Leave Request Submission ]
+     [ Response Generation ]                   		      [ Leave Request Submission ]
                |                                      			
     [ Response Delivery ]                 			
                                      					
