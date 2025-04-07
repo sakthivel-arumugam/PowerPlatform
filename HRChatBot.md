@@ -19,6 +19,11 @@ This chatbot makes leave management easier, faster, and self-service driven.
 6. **Azure App Service** 
 
 * * * * *
+**Architecture Diagram**
+![image](https://github.com/user-attachments/assets/a6bdfbbc-387c-4bf9-b02d-8bcd959b4a59)
+
+* * * * *
+
 **Flow Diagram**
 ```
                            		[ Power Apps ]
@@ -42,11 +47,6 @@ This chatbot makes leave management easier, faster, and self-service driven.
 					
 
 ```
-* * * * *
-
-**Architecture Diagram**
-![image](https://github.com/user-attachments/assets/a6bdfbbc-387c-4bf9-b02d-8bcd959b4a59)
-
 * * * * *
 
 #### **Flow 1: User search leave policy related queries to HRChatbot via Power Apps(Leave Assistant System - Canvas App)**
